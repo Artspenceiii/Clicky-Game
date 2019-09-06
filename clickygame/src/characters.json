@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Arthur Read",
+        "image": "https://img.buzzfeed.com/buzzfeed-static/static/2015-08/20/14/enhanced/webdr14/original-grid-image-6488-1440094722-4.jpg?crop=853:1280;85,0&downsize=400:*&output-format=auto&output-quality=auto"
+    },
+    {
+        "id": 2,
+        "name": "D.W Read",
+        "image": "https://img.buzzfeed.com/buzzfeed-static/static/2015-08/19/14/enhanced/webdr10/original-grid-image-12057-1440009507-4.jpg?crop=853:1280;85,0&downsize=400:*&output-format=auto&output-quality=auto"
+    },
+    {
+        "id": 3,
+        "name": "Nigel Ratburn",
+        "image": "https://i.pinimg.com/originals/c9/29/25/c929250c13907b5811ea913095d46dd9.png"
+    },
+    {
+        "id": 4,
+        "name": "Francine Alice Frensky",
+        "image": "https://img.buzzfeed.com/buzzfeed-static/static/2015-08/19/19/enhanced/webdr15/original-grid-image-29630-1440027684-5.jpg?crop=853:1280;85,0&downsize=400:*&output-format=auto&output-quality=auto"
+    },
+    {
+        "id": 5,
+        "name": "Binky Barnes",
+        "image": "https://img.buzzfeed.com/buzzfeed-static/static/2015-08/18/20/enhanced/webdr07/original-grid-image-24885-1439942406-4.jpg?crop=853:1280;85,0&downsize=400:*&output-format=auto&output-quality=auto"
+    },
+    {
+        "id": 6,
+        "name": "Muffy Crosswire",
+        "image": "https://img.buzzfeed.com/buzzfeed-static/static/2015-08/18/17/enhanced/webdr13/original-grid-image-31140-1439932412-4.jpg?crop=853:1280;85,0&downsize=400:*&output-format=auto&output-quality=auto"
+    },
+    {
+        "id": 7,
+        "name": "Buster Baxter",
+        "image": "https://img.buzzfeed.com/buzzfeed-static/static/2015-08/19/16/enhanced/webdr07/original-grid-image-32318-1440016462-9.jpg?crop=853:1280;85,0&downsize=400:*&output-format=auto&output-quality=auto"
+    },
+    {
+        "id": 8,
+        "name": "Sue Ellen Armstrong",
+        "image": "https://i.pinimg.com/originals/89/b5/61/89b5614c8d5255107eb7e69203a32190.png"
+    },
+    {
+        "id": 9,
+        "name": "Brain",
+        "image": "https://img.buzzfeed.com/buzzfeed-static/static/2015-08/20/16/enhanced/webdr08/original-grid-image-23478-1440103301-4.jpg?crop=853:1280;85,0&downsize=400:*&output-format=auto&output-quality=auto"
+    },
+    {
+        "id": 10,
+        "name": "Jane Read",
+        "image": "https://vignette.wikia.nocookie.net/scratchpad/images/7/73/Jane_Read_promo.png/revision/latest?cb=20140330192014"
+    },
+    {
+        "id": 11,
+        "name": "George Lundgren",
+        "image": "https://vignette.wikia.nocookie.net/tvokids-arthur/images/2/27/George_Lundgren.png/revision/latest?cb=20130609121207"
+    },
+    {
+        "id": 12,
+        "name": "Bitzi Baxter",
+        "image": "https://vignette.wikia.nocookie.net/tvokids-arthur/images/9/96/Bitzi_Baxter.jpg/revision/latest?cb=20130207003617"
+    }
+]
